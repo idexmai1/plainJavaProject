@@ -6,5 +6,7 @@ public class MainClass {
 	// write your code here
 	String string = "I love this game!";
 	System.out.println(string);
+	
+	
     }
 }
