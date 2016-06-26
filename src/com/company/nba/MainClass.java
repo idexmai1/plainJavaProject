@@ -4,7 +4,7 @@ public class MainClass {
 
     public static void main(String[] args) {
 	// write your code here
-	String string = "Keep calm and enjoy coding with Codenvy!";
+	String string = "I love this game!";
 	System.out.println(string);
 	
 	
